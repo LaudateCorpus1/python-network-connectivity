@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-network-connectivity/compare/v1.2.2...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#119](https://github.com/googleapis/python-network-connectivity/issues/119)) ([4f83215](https://github.com/googleapis/python-network-connectivity/commit/4f83215ae3b09ec2e64d7dd73aec331e03805ca6))
+
 ### [1.2.2](https://www.github.com/googleapis/python-network-connectivity/compare/v1.2.1...v1.2.2) (2021-11-11)
 
 
